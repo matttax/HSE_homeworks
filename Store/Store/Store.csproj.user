@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Commodity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Store.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Name.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuantityLimit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TableTree.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
