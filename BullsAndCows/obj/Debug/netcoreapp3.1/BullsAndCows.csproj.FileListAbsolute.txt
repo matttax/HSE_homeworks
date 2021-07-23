@@ -1,0 +1,13 @@
+C:\Users\1661322\Downloads\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.exe
+C:\Users\1661322\Downloads\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.deps.json
+C:\Users\1661322\Downloads\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.runtimeconfig.json
+C:\Users\1661322\Downloads\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.runtimeconfig.dev.json
+C:\Users\1661322\Downloads\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.dll
+C:\Users\1661322\Downloads\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.pdb
+C:\Users\1661322\Downloads\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.csprojAssemblyReference.cache
+C:\Users\1661322\Downloads\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.AssemblyInfoInputs.cache
+C:\Users\1661322\Downloads\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.AssemblyInfo.cs
+C:\Users\1661322\Downloads\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.csproj.CoreCompileInputs.cache
+C:\Users\1661322\Downloads\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.dll
+C:\Users\1661322\Downloads\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.pdb
+C:\Users\1661322\Downloads\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.genruntimeconfig.cache
